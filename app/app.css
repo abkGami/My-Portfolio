@@ -93,3 +93,6 @@ h5{
     transform: scale(1.01) translateY(-5px);
     cursor: pointer;
 }
+.hidden{
+    color: #12141c;
+}
