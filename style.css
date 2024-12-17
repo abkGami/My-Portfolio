@@ -387,6 +387,9 @@ h5{
     border-radius: 0.5rem;
     transition: all .40s ease;
 }
+.hidden{
+    color: #12141c;
+}
 .main-row{
     display: flex;
     align-items: center;
